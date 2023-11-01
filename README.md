@@ -150,7 +150,7 @@ internal class Program
 
 Produtos.cs:
 
-```python
+```csharp
 namespace compras;
 using System;
 using System.Collections;

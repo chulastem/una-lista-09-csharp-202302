@@ -1,0 +1,14 @@
+C:\Users\chula\Documents\Github\una-lista-09-csharp-202302\bin\Debug\net7.0\una-lista-09-csharp-202302.exe
+C:\Users\chula\Documents\Github\una-lista-09-csharp-202302\bin\Debug\net7.0\una-lista-09-csharp-202302.deps.json
+C:\Users\chula\Documents\Github\una-lista-09-csharp-202302\bin\Debug\net7.0\una-lista-09-csharp-202302.runtimeconfig.json
+C:\Users\chula\Documents\Github\una-lista-09-csharp-202302\bin\Debug\net7.0\una-lista-09-csharp-202302.dll
+C:\Users\chula\Documents\Github\una-lista-09-csharp-202302\bin\Debug\net7.0\una-lista-09-csharp-202302.pdb
+C:\Users\chula\Documents\Github\una-lista-09-csharp-202302\obj\Debug\net7.0\una-lista-09-csharp-202302.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chula\Documents\Github\una-lista-09-csharp-202302\obj\Debug\net7.0\una-lista-09-csharp-202302.AssemblyInfoInputs.cache
+C:\Users\chula\Documents\Github\una-lista-09-csharp-202302\obj\Debug\net7.0\una-lista-09-csharp-202302.AssemblyInfo.cs
+C:\Users\chula\Documents\Github\una-lista-09-csharp-202302\obj\Debug\net7.0\una-lista-09-csharp-202302.csproj.CoreCompileInputs.cache
+C:\Users\chula\Documents\Github\una-lista-09-csharp-202302\obj\Debug\net7.0\una-lista-09-csharp-202302.dll
+C:\Users\chula\Documents\Github\una-lista-09-csharp-202302\obj\Debug\net7.0\refint\una-lista-09-csharp-202302.dll
+C:\Users\chula\Documents\Github\una-lista-09-csharp-202302\obj\Debug\net7.0\una-lista-09-csharp-202302.pdb
+C:\Users\chula\Documents\Github\una-lista-09-csharp-202302\obj\Debug\net7.0\una-lista-09-csharp-202302.genruntimeconfig.cache
+C:\Users\chula\Documents\Github\una-lista-09-csharp-202302\obj\Debug\net7.0\ref\una-lista-09-csharp-202302.dll

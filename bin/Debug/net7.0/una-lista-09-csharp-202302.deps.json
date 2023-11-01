@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "una-lista-09-csharp-202302/1.0.0": {
+        "runtime": {
+          "una-lista-09-csharp-202302.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "una-lista-09-csharp-202302/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
